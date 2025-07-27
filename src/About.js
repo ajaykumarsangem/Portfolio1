@@ -209,7 +209,7 @@ function About() {
         <h2 style={styles.title}>About Me</h2>
         <div style={styles.imageWrapper}>
           <img
-            src="\WhatsApp Image 2025-07-27 at 14.33.20_cafe3e98.jpg" // Replace with your profile photo (in /public)
+            src="/WhatsApp Image 2025-07-27 at 14.33.20_5b61d18a.jpg" // Replace with your profile photo (in /public)
             alt="About"
             style={styles.image}
             onError={(e) => {
